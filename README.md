@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, gaming, and reading
 - 🌱 I’m currently learning Android and Web dev
 - 💞️ I’m looking to collaborate on nothing yet - I'm very new.
-- 📫 How to reach me: Scratch at https://scratch.mit.edu/users/weekendsleeper, Repl.it at https://repl.it/@AmoghTheCool, and Github at https://github.com/kewlamogh
+- 📫 How to reach me: [my Scratch](https://scratch.mit.edu/users/weekendsleeper), [replit](https://replit.com/@AmoghTheCool), and [Github](https://github.com/kewlamogh)
 - ✋ My portfolio site: https://kewlamogh.github.io/portfolio/#navbar
 
 <!---
