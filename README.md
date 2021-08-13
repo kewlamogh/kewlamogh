@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kewlamogh
 - 👀 I’m interested in coding, gaming, and reading
 - 🌱 I’m currently learning Android and Web dev
-- 💞️ I’m looking to collaborate on nothing yet - I'm very new.
+- 💞️ I’m looking to collaborate on some open-source NodeJS/Python libs and frameworks
 - 📫 How to reach me: [my Scratch](https://scratch.mit.edu/users/weekendsleeper), [replit](https://replit.com/@AmoghTheCool), and [Github](https://github.com/kewlamogh)
 - ✋ My portfolio site: https://kewlamogh.github.io/portfolio/#navbar
 
