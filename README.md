@@ -8,4 +8,4 @@ I am currently working on Thingy, a social media application ~~which is in a pri
 
 My stats:
 
-![stats](https://github-readme-stats.vercel.app/api?username=kewlamogh&count_private=true&theme=outrun&show_icons=true&include_all_commits=true&hide=issues)
+![stats](https://github-readme-stats.vercel.app/api?username=kewlamogh&count_private=true&theme=dark&show_icons=true&include_all_commits=true&hide=issues)
