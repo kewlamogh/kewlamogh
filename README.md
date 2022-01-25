@@ -10,3 +10,7 @@ I am currently working on Thingy, a social media application. I originally wrote
 My stats:
 
 ![stats](https://github-readme-stats.vercel.app/api?username=kewlamogh&count_private=true&theme=dark&show_icons=true&include_all_commits=true&hide=issues)
+
+Also, my custom auth system is broken, and I just realized that my tests always pass - even if the auth is broken! 
+
+#ImABadTestWriter
