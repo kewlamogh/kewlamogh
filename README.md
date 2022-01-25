@@ -10,5 +10,6 @@ I am currently working on Thingy, a social media application. I originally wrote
 My stats:
 ![stats](https://github-readme-stats.vercel.app/api?username=kewlamogh&count_private=true&theme=dark&show_icons=true&include_all_commits=true&hide=issues)
 
-My gopher:
+PS: My `replit.com` profile is at @AmoghTheCool.
+
 ![image](https://user-images.githubusercontent.com/86981743/151064613-3f59fe32-8b2c-44e2-9c66-3cf77e15f7dd.png)
