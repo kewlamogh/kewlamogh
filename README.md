@@ -1,5 +1,5 @@
 # @kewlamogh
-Hey there! My name is Amogh and I am a web developer. My tech stack is what I call *mern* - MongoDB, ExpressJS, ReactJS, and NodeJS. I am a former mobile developer with Kotlin, and am learning Golang + `net/http`. Some of my projects you can contribute to:
+Hey there! My name is Amogh and I am a web developer. My tech stack is what I call *mern* - MongoDB, ExpressJS, ReactJS, and NodeJS (EDIT: I just realized that I didn't invent mern 😔). I am a former mobile developer with Kotlin, and am learning Golang + `net/http`. Some of my projects you can contribute to:
 * BobAssistant - my take on a virtual assistant that doesn't track you
 * zomb-apocolypse - a top down shooter, misspelled on purpose
 
