@@ -13,4 +13,4 @@ I am currently working on Thingy, a social media application. I originally wrote
 
 My stats:
 
-![stats](https://github-readme-stats.vercel.app/api?username=kewlamogh&count_private=true&t
+![stats](https://github-readme-stats.vercel.app/api?username=kewlamogh&count_private=true&t)
